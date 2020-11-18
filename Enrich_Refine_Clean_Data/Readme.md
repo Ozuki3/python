@@ -1,4 +1,4 @@
-## 1.0 The mission
+## The mission
 Rebel Alliance Intelligence has detected the presence of Imperial probe
 [droids](https://starwars.fandom.com/wiki/Probe_droid/Legends) in the Hoth system. The Rebel
 Alliance base named Echo Base is located on the ice planet Hoth. If the Imperial probes
@@ -11,7 +11,7 @@ The Python program you write will be capable of producing two JSON files:
 1. a document comprising a list of uninhabited planets on which a new based could be located
 2. an updated and enriched Echo Base document that includes an evacuation plan for base personnel
 
-## 2.0 General assignment outline
+## General outline
 You will perform the following steps:
 
 - Analyze this document, two JSON files that serve as default documents, and two JSON solution
