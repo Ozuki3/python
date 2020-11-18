@@ -1,3 +1,3 @@
-Cards Practice 
+Cards practice 
 
-Basic Unit Testing Practice
+Basic unit testing practice
