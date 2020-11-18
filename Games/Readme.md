@@ -25,6 +25,4 @@ The basic gameplay is as follows:
   
   d. If a pet becomes too bored, it will leave to find entertainment elsewhere andthe game will be over.
   
-  e. A pet will initially be of age 0 and live up to 18  years(int), and the age of pets increments by 1 for every clock_tick. Once either a cat, poodle or a dog gets older than 18 years, they will leave andthe program terminates.
-  
-  f. When the game ends(i.e. no pets are part of the game), it should provide a playertwo options to make: play it again or quit.
+  e. When the game ends(i.e. no pets are part of the game), it should provide a playertwo options to make: play it again or quit.
